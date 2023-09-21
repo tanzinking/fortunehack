@@ -1,0 +1,1698 @@
+{
+  "content": [
+    {
+      "id": "31e47d4d",
+      "settings": {
+        "structure": "20",
+        "padding": {
+          "unit": "px",
+          "top": "200",
+          "right": "0",
+          "bottom": "200",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/capa.jpg",
+          "id": 596,
+          "alt": "",
+          "source": "library",
+          "size": ""
+        },
+        "background_position": "center center",
+        "background_size": "contain",
+        "background_overlay_background": "classic",
+        "border_radius_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "200",
+          "right": "25",
+          "bottom": "200",
+          "left": "25",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "100",
+          "right": "15",
+          "bottom": "50",
+          "left": "15",
+          "isLinked": false
+        },
+        "background_image_mobile": {
+          "url": "https://lp.sheikbot.online/wp-content/uploads/2023/08/mobile-tigre-min.webp",
+          "id": 636,
+          "alt": "",
+          "source": "library"
+        },
+        "background_repeat_mobile": "no-repeat",
+        "background_size_mobile": "cover",
+        "background_color": "#5c0504",
+        "background_repeat": "repeat-x",
+        "background_size_tablet": "cover",
+        "background_bg_width": {
+          "unit": "%",
+          "size": 74,
+          "sizes": []
+        },
+        "background_position_mobile": "top center",
+        "margin_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": 0,
+          "bottom": "0",
+          "left": 0,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "51d6cc06",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 47.10499999999999687361196265555918216705322265625
+          },
+          "elements": [
+            {
+              "id": "74002523",
+              "settings": {
+                "space_mobile": {
+                  "unit": "px",
+                  "size": 230,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "spacer",
+              "elType": "widget"
+            },
+            {
+              "id": "25bc998a",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 36,
+                  "sizes": []
+                },
+                "align_mobile": "center",
+                "text": "Divisor",
+                "color": "#f2ba4d",
+                "gap_mobile": {
+                  "unit": "px",
+                  "size": 7,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "487d911b",
+              "settings": {
+                "editor": "<p><span style=\"font-weight: 400;\">Sinais Gratuitos, Sorteios Incríveis e Lives Exclusivas!</span></p>",
+                "column_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "text_color": "#DEDBDB",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 1,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "align_mobile": "center",
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.399999999999999911182158029987476766109466552734375,
+                  "sizes": []
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "25",
+                  "bottom": "0",
+                  "left": "25",
+                  "isLinked": false
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "-20",
+                  "right": "20",
+                  "bottom": "0",
+                  "left": "20",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "245b790c",
+              "settings": {
+                "text": "Receber Sinais Gratuitos Agora!",
+                "size": "lg",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 23,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "uppercase",
+                "button_text_color": "#FFFFFF",
+                "background_background": "gradient",
+                "background_color": "#f2ba4d",
+                "background_color_stop": {
+                  "unit": "%",
+                  "size": 41,
+                  "sizes": []
+                },
+                "background_color_b": "#FF8C00",
+                "background_color_b_stop": {
+                  "unit": "%",
+                  "size": 72,
+                  "sizes": []
+                },
+                "background_gradient_angle": {
+                  "unit": "deg",
+                  "size": 192,
+                  "sizes": []
+                },
+                "hover_color": "#FFFFFF",
+                "button_background_hover_background": "gradient",
+                "button_background_hover_color_b": "#f2ba4d",
+                "button_hover_border_color": "#FF8C00",
+                "border_border": "none",
+                "border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "46",
+                  "right": "46",
+                  "bottom": "46",
+                  "left": "46",
+                  "isLinked": true
+                },
+                "button_background_hover_color": "#FF8C00",
+                "button_background_hover_color_b_stop": {
+                  "unit": "%",
+                  "size": 59,
+                  "sizes": []
+                },
+                "button_background_hover_gradient_angle": {
+                  "unit": "deg",
+                  "size": 349,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "border_color": "#FF8C00",
+                "_margin": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "10",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "link": {
+                  "url": "https://chat.whatsapp.com/KWClx2W8FzLJMRPJN12JWl",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "613f2e60",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 52.8509999999999990905052982270717620849609375
+          },
+          "elements": [],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "254e348f",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#4D0605",
+        "padding": {
+          "unit": "px",
+          "top": "62",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "15",
+          "bottom": "0",
+          "left": "15",
+          "isLinked": false
+        },
+        "hide_desktop": "hidden-desktop",
+        "hide_tablet": "hidden-tablet",
+        "border_border": "none"
+      },
+      "elements": [
+        {
+          "id": "1fe4e81d",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "border_border": "none",
+            "margin_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "6a1e7851",
+              "settings": {
+                "title": "Você já imaginou se tornar um apostador de sucesso, conquistando ganhos consistentes e vivendo a emoção do mundo das apostas?",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 48,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "40",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "align_mobile": "center",
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 39,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "44823f44",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 36,
+                  "sizes": []
+                },
+                "align_mobile": "center",
+                "text": "Divisor",
+                "color": "#f2ba4d",
+                "gap_mobile": {
+                  "unit": "px",
+                  "size": 7,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "59e27cf8",
+              "settings": {
+                "editor": "<p><span style=\"font-weight: 400;\">Com o Fortune Tiger, tudo isso é possível!</span></p>",
+                "column_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "text_color": "#DEDBDB",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 1,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "align_mobile": "center",
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.399999999999999911182158029987476766109466552734375,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "20",
+                  "bottom": "0",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "25",
+                  "bottom": "0",
+                  "left": "25",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "6092d545",
+              "settings": {
+                "carousel": [
+                  {
+                    "id": 612,
+                    "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/1-5.webp"
+                  },
+                  {
+                    "id": 611,
+                    "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/2-5.webp"
+                  },
+                  {
+                    "id": 613,
+                    "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/3-5.webp"
+                  }
+                ],
+                "thumbnail_size": "medium_large",
+                "arrows_color": "#f2ba4d",
+                "dots_inactive_color": "#f2ba4d",
+                "dots_color": "#e83d14",
+                "image_spacing": "custom",
+                "image_spacing_custom": {
+                  "unit": "px",
+                  "size": 39,
+                  "sizes": []
+                },
+                "image_spacing_custom_mobile": {
+                  "unit": "px",
+                  "size": 29,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "link_to": "custom",
+                "link": {
+                  "url": "https://t.me/+BtcroScPr2Q4MTIx",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-carousel",
+              "elType": "widget"
+            },
+            {
+              "id": "4f6b6bec",
+              "settings": {
+                "text": "Receber Sinais Gratuitos Agora!",
+                "size": "lg",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 23,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "uppercase",
+                "button_text_color": "#FFFFFF",
+                "background_background": "gradient",
+                "background_color": "#f2ba4d",
+                "background_color_stop": {
+                  "unit": "%",
+                  "size": 41,
+                  "sizes": []
+                },
+                "background_color_b": "#FF8C00",
+                "background_color_b_stop": {
+                  "unit": "%",
+                  "size": 72,
+                  "sizes": []
+                },
+                "background_gradient_angle": {
+                  "unit": "deg",
+                  "size": 192,
+                  "sizes": []
+                },
+                "hover_color": "#FFFFFF",
+                "button_background_hover_background": "gradient",
+                "button_background_hover_color_b": "#f2ba4d",
+                "button_hover_border_color": "#FF8C00",
+                "border_border": "none",
+                "border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "46",
+                  "right": "46",
+                  "bottom": "46",
+                  "left": "46",
+                  "isLinked": true
+                },
+                "button_background_hover_color": "#FF8C00",
+                "button_background_hover_color_b_stop": {
+                  "unit": "%",
+                  "size": 59,
+                  "sizes": []
+                },
+                "button_background_hover_gradient_angle": {
+                  "unit": "deg",
+                  "size": 349,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "border_color": "#FF8C00",
+                "_margin": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "align_mobile": "center",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "10",
+                  "bottom": "50",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "link": {
+                  "url": "https://t.me/+BtcroScPr2Q4MTIx",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "11768c1f",
+      "settings": {
+        "structure": "30",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#4D0201",
+        "hide_mobile": "hidden-mobile"
+      },
+      "elements": [
+        {
+          "id": "22251730",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "432f9203",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 95,
+                  "sizes": []
+                },
+                "space": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 411,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "image_border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "image": {
+                  "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/1-5.webp",
+                  "id": 612,
+                  "alt": "",
+                  "source": "library"
+                },
+                "object-fit": "contain",
+                "link_to": "custom",
+                "link": {
+                  "url": "https://t.me/+BtcroScPr2Q4MTIx",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "5243a00f",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ebf09c8",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 95,
+                  "sizes": []
+                },
+                "space": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 411,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "image_border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "image": {
+                  "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/2-5.webp",
+                  "id": 611,
+                  "alt": "",
+                  "source": "library"
+                },
+                "object-fit": "contain",
+                "link_to": "custom",
+                "link": {
+                  "url": "https://chat.whatsapp.com/KWClx2W8FzLJMRPJN12JWl",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "4a0ccb1d",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "3b3d563f",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 95,
+                  "sizes": []
+                },
+                "space": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 411,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "image_border_radius": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "10",
+                  "bottom": "10",
+                  "left": "10",
+                  "isLinked": true
+                },
+                "image": {
+                  "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/3-5.webp",
+                  "id": 613,
+                  "alt": "",
+                  "source": "library"
+                },
+                "object-fit": "contain",
+                "link_to": "custom",
+                "link": {
+                  "url": "https://t.me/+BtcroScPr2Q4MTIx",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "75efb8f8",
+      "settings": {
+        "structure": "20",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#4D0201",
+        "hide_mobile": "hidden-mobile",
+        "border_border": "none"
+      },
+      "elements": [
+        {
+          "id": "1b6463da",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 41.4129999999999967030817060731351375579833984375
+          },
+          "elements": [
+            {
+              "id": "2a928309",
+              "settings": {
+                "image": {
+                  "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/celular-_2_.webp",
+                  "id": 601,
+                  "alt": "",
+                  "source": "library"
+                },
+                "align": "left",
+                "width": {
+                  "unit": "%",
+                  "size": 89,
+                  "sizes": []
+                },
+                "space": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 500,
+                  "sizes": []
+                },
+                "object-fit": "contain",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "6a2c81eb",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 58.5870000000000032969182939268648624420166015625,
+            "margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "100",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "margin_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "4337e2a1",
+              "settings": {
+                "title": "Você já imaginou lucrar de verdade com o joguinho do tigre?",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 48,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "40",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 39,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "6f285dd0",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 36,
+                  "sizes": []
+                },
+                "align_mobile": "center",
+                "text": "Divisor",
+                "color": "#f2ba4d",
+                "gap_mobile": {
+                  "unit": "px",
+                  "size": 7,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "45e99843",
+              "settings": {
+                "editor": "<p>Com a nossa inteligência artificial, isso é possível!</p>",
+                "column_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "text_color": "#DEDBDB",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 1,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "align_mobile": "center",
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.399999999999999911182158029987476766109466552734375,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "-20",
+                  "right": "20",
+                  "bottom": "0",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "25",
+                  "bottom": "0",
+                  "left": "25",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "6733f566",
+              "settings": {
+                "text": "Receber Sinais Gratuitos Agora!",
+                "size": "lg",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 23,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "button_text_color": "#FFFFFF",
+                "background_background": "gradient",
+                "background_color": "#f2ba4d",
+                "background_color_stop": {
+                  "unit": "%",
+                  "size": 41,
+                  "sizes": []
+                },
+                "background_color_b": "#FF8C00",
+                "background_color_b_stop": {
+                  "unit": "%",
+                  "size": 72,
+                  "sizes": []
+                },
+                "background_gradient_angle": {
+                  "unit": "deg",
+                  "size": 192,
+                  "sizes": []
+                },
+                "hover_color": "#FFFFFF",
+                "button_background_hover_background": "gradient",
+                "button_background_hover_color_b": "#f2ba4d",
+                "button_hover_border_color": "#FF8C00",
+                "border_border": "none",
+                "border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "46",
+                  "right": "46",
+                  "bottom": "46",
+                  "left": "46",
+                  "isLinked": true
+                },
+                "button_background_hover_color": "#FF8C00",
+                "button_background_hover_color_b_stop": {
+                  "unit": "%",
+                  "size": 59,
+                  "sizes": []
+                },
+                "button_background_hover_gradient_angle": {
+                  "unit": "deg",
+                  "size": 349,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "border_color": "#FF8C00",
+                "_margin": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "link": {
+                  "url": "https://chat.whatsapp.com/KWClx2W8FzLJMRPJN12JWl",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "5a5dad22",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#DD5153",
+        "background_color_b": "#a11819",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_image": {
+          "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/Prancheta-2.webp",
+          "id": 600,
+          "alt": "",
+          "source": "library"
+        },
+        "background_position": "center center",
+        "background_repeat": "repeat",
+        "background_size": "cover",
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "20",
+          "bottom": "0",
+          "left": "20",
+          "isLinked": false
+        },
+        "border_radius_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_border": "none"
+      },
+      "elements": [
+        {
+          "id": "15109f34",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "bc47b45",
+              "settings": {
+                "structure": "20",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": 0,
+                  "bottom": "0",
+                  "left": 0,
+                  "isLinked": false
+                }
+              },
+              "elements": [
+                {
+                  "id": "6630dfb4",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "6b6715ca",
+                      "settings": {
+                        "image": {
+                          "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/Matiz_Saturacao-1-1.png",
+                          "id": 598,
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "align": "left",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "-203",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "motion_fx_motion_fx_scrolling": "yes",
+                        "motion_fx_translateY_effect": "yes",
+                        "motion_fx_translateY_speed": {
+                          "unit": "px",
+                          "size": 1.3000000000000000444089209850062616169452667236328125,
+                          "sizes": []
+                        },
+                        "motion_fx_range": "page",
+                        "hide_mobile": "hidden-mobile"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "image",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                },
+                {
+                  "id": "6b6a7c9d",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "2f663f1",
+                      "settings": {
+                        "image": {
+                          "url": "https://lp.sheikbot.online/wp-content/uploads/2023/07/Matiz_Saturacao-1.png",
+                          "id": 599,
+                          "alt": "",
+                          "source": "library"
+                        },
+                        "align": "right",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "-97",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "_padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": false
+                        },
+                        "motion_fx_motion_fx_scrolling": "yes",
+                        "motion_fx_translateY_effect": "yes",
+                        "motion_fx_translateY_speed": {
+                          "unit": "px",
+                          "size": 2,
+                          "sizes": []
+                        },
+                        "motion_fx_range": "page",
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 23,
+                          "sizes": []
+                        },
+                        "hide_mobile": "hidden-mobile"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "image",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                }
+              ],
+              "isInner": true,
+              "elType": "section"
+            },
+            {
+              "id": "7da3582f",
+              "settings": {
+                "image": {
+                  "url": "https://lp.sheikbot.online/wp-content/uploads/2023/06/fortune-tiger-logo.webp",
+                  "id": 314,
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 18,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 31,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "-44",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            },
+            {
+              "id": "21f52911",
+              "settings": {
+                "title": "Não perca tempo!\n",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 54,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "250",
+                  "bottom": "0",
+                  "left": "250",
+                  "isLinked": false
+                },
+                "_padding_mobile": {
+                  "unit": "%",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "b625ce6",
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 16,
+                  "sizes": []
+                },
+                "align": "center",
+                "text": "Divisor",
+                "color": "#FF8C00",
+                "weight": {
+                  "unit": "px",
+                  "size": 2.399999999999999911182158029987476766109466552734375,
+                  "sizes": []
+                },
+                "gap": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "12c5b884",
+              "settings": {
+                "editor": "<p><span style=\"font-weight: 400;\">O Fortune Tiger aguarda você para </span><span style=\"font-weight: 400;\">uma </span><b>jornada de vitórias!</b></p>",
+                "column_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "align": "center",
+                "text_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 29,
+                  "sizes": []
+                },
+                "typography_font_weight": "200",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "-36",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "350",
+                  "bottom": "0",
+                  "left": "350",
+                  "isLinked": false
+                },
+                "typography_word_spacing": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.3000000000000000444089209850062616169452667236328125,
+                  "sizes": []
+                },
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "250",
+                  "bottom": "0",
+                  "left": "250",
+                  "isLinked": false
+                },
+                "_padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "79bbf2d8",
+              "settings": {
+                "text": "RECEBER SINAIS GRATUITOS AGORA!",
+                "align": "center",
+                "size": "lg",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 23,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "uppercase",
+                "button_text_color": "#FFFFFF",
+                "background_background": "gradient",
+                "background_color": "#f2ba4d",
+                "background_color_stop": {
+                  "unit": "%",
+                  "size": 41,
+                  "sizes": []
+                },
+                "background_color_b": "#FF8C00",
+                "background_color_b_stop": {
+                  "unit": "%",
+                  "size": 72,
+                  "sizes": []
+                },
+                "background_gradient_angle": {
+                  "unit": "deg",
+                  "size": 192,
+                  "sizes": []
+                },
+                "hover_color": "#FFFFFF",
+                "button_background_hover_background": "gradient",
+                "button_background_hover_color_b": "#f2ba4d",
+                "button_hover_border_color": "#FF8C00",
+                "border_border": "none",
+                "border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "46",
+                  "right": "46",
+                  "bottom": "46",
+                  "left": "46",
+                  "isLinked": true
+                },
+                "button_background_hover_color": "#FF8C00",
+                "button_background_hover_color_b_stop": {
+                  "unit": "%",
+                  "size": 59,
+                  "sizes": []
+                },
+                "button_background_hover_gradient_angle": {
+                  "unit": "deg",
+                  "size": 349,
+                  "sizes": []
+                },
+                "hover_animation": "grow",
+                "border_color": "#FF8C00",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "_margin_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "10",
+                  "bottom": "0",
+                  "left": "10",
+                  "isLinked": false
+                },
+                "link": {
+                  "url": "https://chat.whatsapp.com/KWClx2W8FzLJMRPJN12JWl",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            },
+            {
+              "id": "38016672",
+              "settings": {
+                "title": "GNOBET 2023 - TODOS OS DIREITOS RESERVADOS!​",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Saira",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                },
+                "typography_font_weight": "200",
+                "typography_line_height": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_word_spacing": {
+                  "unit": "px",
+                  "size": 0,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "67",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "FORTUNE TIGER PÁGINA 01 - GNO 17/08",
+  "type": "page"
+}
